@@ -10,7 +10,7 @@ Today I Learned
 
 ### Laravel
 
-- [laravel eloquent scopes](laravel/eloquent-scopes.md)
+- [laravel eloquent scopes](Laravel/eloquent-scopes.md)
 
 ---
 
