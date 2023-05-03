@@ -11,6 +11,9 @@ Today I Learned
 ### Laravel
 
 - [laravel eloquent scopes](Laravel/eloquent-scopes.md)
+- [laravel collect](Laravel/collect.md)
+- [laravel concat](Laravel/concat.md)
+- [laravel unique](Laravel/unique.md)
 
 ### pattern
 
