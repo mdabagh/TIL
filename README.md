@@ -14,6 +14,7 @@ Today I Learned
 - [laravel collect](Laravel/collect.md)
 - [laravel concat](Laravel/concat.md)
 - [laravel unique](Laravel/unique.md)
+- [laravel eloquent mutators](Laravel/eloquent-mutators.md)
 
 ### pattern
 
