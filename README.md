@@ -15,6 +15,7 @@ Today I Learned
 - [laravel concat](Laravel/concat.md)
 - [laravel unique](Laravel/unique.md)
 - [laravel eloquent mutators](Laravel/eloquent-mutators.md)
+- [laravel eloquent whereHas](Laravel/eloquent-whereHas.md)
 
 ### pattern
 
