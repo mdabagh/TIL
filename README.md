@@ -17,6 +17,7 @@ Today I Learned
 - [laravel eloquent mutators](Laravel/eloquent-mutators.md)
 - [laravel eloquent whereHas](Laravel/eloquent-whereHas.md)
 - [laravel Session and Cookie](Laravel/Session_Cookie.md)
+- [laravel Authentication with API using Sanctum](Laravel/sanctum.md)
 
 ### pattern
 
