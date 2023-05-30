@@ -2,12 +2,12 @@ Laravel Tinker is a REPL (Read-Eval-Print Loop) tool that allows developers to i
 
 One example of using Laravel Tinker is to create a new instance of a controller and call one of its methods. For instance, if you have a LoginController with a method called "username", you can create a new instance of it using the following command:
 ```
-$s = new App\Http\Controllers\Auth\LoginController;
+$result = new App\Http\Controllers\Auth\LoginController;
 ```
 
 Afterwards, you can call the "username" method on this object using the following command:
 ```
-$s->username();
+$result->username();
 ```
 
 Assuming that the "username" method returns the string "username", this command will output the following result:
