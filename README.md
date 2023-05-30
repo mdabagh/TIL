@@ -18,8 +18,7 @@ Today I Learned
 - [laravel eloquent whereHas](Laravel/eloquent-whereHas.md)
 - [laravel Session and Cookie](Laravel/Session_Cookie.md)
 - [laravel Authentication with API using Sanctum](Laravel/sanctum.md)
-- [laravel tinker](Laravel/laravel-tinker.md)
-
+- [laravel tinker](Laravel/laravel-tinker.md) 😍
 
 ### pattern
 
