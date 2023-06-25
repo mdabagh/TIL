@@ -19,6 +19,8 @@ Today I Learned
 - [laravel Session and Cookie](Laravel/Session_Cookie.md)
 - [laravel Authentication with API using Sanctum](Laravel/sanctum.md)
 - [laravel tinker](Laravel/laravel-tinker.md) 😍
+- [laravel permission](Laravel/laravelpermission.md) 😍
+
 
 ### pattern
 
